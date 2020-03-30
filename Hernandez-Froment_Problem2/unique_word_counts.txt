@@ -1,0 +1,10 @@
+sentence : 1
+a : 2
+with : 2
+Here : 1
+it. : 1
+in : 1
+words : 2
+few : 2
+is : 1
+duplicate : 1
